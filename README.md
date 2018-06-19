@@ -35,7 +35,7 @@ Todas las ejecuciones están hechas en Qt creator y implementadas en serie.
 - Resta (ejecutado)
 - Producto (ejecutado)
 - División (no ejecutado)
-## Ejecuiciones
+## Ejecuciones
 - Sumar
 
 ![alt text](resultados/combSumar.png)
