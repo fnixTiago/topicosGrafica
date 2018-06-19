@@ -1,4 +1,4 @@
-# topicos en computación Gráfica
+# Tópicos en computación Gráfica
 Tópicos de computación en gráfica - Implementaciones en serie
 
 ## **1. Operaciones elementales**
