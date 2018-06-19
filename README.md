@@ -1,4 +1,9 @@
 # Tópicos en computación Gráfica
+## Alumno:
+Pancca Mamani, Israel Santiago
+Escuela de ciencia de la computación
+
+
 Tópicos de computación en gráfica - Implementaciones en serie
 
 ## **1. Operaciones elementales**
