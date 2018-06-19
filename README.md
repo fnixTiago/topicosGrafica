@@ -1,7 +1,8 @@
 # Tópicos en computación Gráfica
 ## Alumno:
 Pancca Mamani, Israel Santiago
-Escuela de ciencia de la computación
+ 
+Escuela de Ciencia de la Computación
 
 
 Tópicos de computación en gráfica - Implementaciones en serie
